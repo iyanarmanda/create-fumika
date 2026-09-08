@@ -1,0 +1,30 @@
+{
+  "name": "create-fumika",
+  "version": "0.0.1",
+  "description": "CLI scaffolder to kickstart a new Fumika Astro blog project",
+  "main": "src/index.js",
+  "bin": {
+    "create-fumika": "src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "astro",
+    "template",
+    "blog",
+    "create-fumika",
+    "scaffolder"
+  ],
+  "author": "iyanarmanda",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "giget": "^3.3.1",
+    "picocolors": "^1.1.1",
+    "prompts": "^2.4.2"
+  }
+}
