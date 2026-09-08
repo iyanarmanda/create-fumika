@@ -1,6 +1,6 @@
 {
   "name": "create-fumika",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "CLI scaffolder to kickstart a new Fumika Astro blog project",
   "main": "src/index.js",
   "bin": {
